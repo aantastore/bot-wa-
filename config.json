@@ -1,0 +1,24 @@
+{
+    "ownerNumber": "6281262411188@s.whatsapp.net",
+    "ownerName": "Antaz",
+    "limitCount": 30,
+    "gamewaktu": 60,
+    "botName": "Anta Bot",
+    "pathImg": "./media/Itsuki.jpg",
+    "apikey": "YOUR_APIKEY",
+    "fake": "XINZ-BOTZ VERIFIED",
+    "sesidInsta": "default",
+    "sessionName": "aqulzz",
+    "txtDonasi": "GOPAY : 081262411188\nPulsa : 081262411188",
+    "gcount": {
+        "prem": 40,
+        "user": 20
+    },
+    "emote":{
+        "free": "◽",
+        "owner": "◾",
+        "limit": "🔸",
+        "glimit": "🔹",
+        "prem": "💰"
+    }
+}
